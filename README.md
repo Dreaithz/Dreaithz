@@ -1,21 +1,15 @@
-<!-- HEADER -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=220&section=header&text=D+r+e+a+i+t+h&fontSize=75&fontColor=ffcce0&animation=twinkling&fontAlignY=42&desc=curious+hooman+·+Information+Technology+Student&descAlignY=63&descSize=17&descColor=ffd6e7"/>
+ <img width="100%" height="290" alt="image" src="https://github.com/user-attachments/assets/c888f909-c1f2-4d34-8a29-223818870d56" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dr34ith&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=droid-dreaith&color=9b59b6&style=for-the-badge&label=PROFILE+VIEWS"/>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&random=false&width=720&lines=just+a+student+figuring+things+out;exploring+security,+design+%26+everything+in+between;powered+by+peanuts+%26+way+too+much+caffeine;still+learning.+always+learning." />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=FF85A1&center=true&vCenter=true&random=false&width=720&lines=just+a+student+figuring+things+out;exploring+security,+design+%26+everything+in+between;powered+by+peanuts+%26+way+too+much+caffeine;still+learning.+always+learning." />
-</p>
-
-<br/>
-
----
-
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDkzdm9xZmUxNm5scjl2YW5pcmU3c2VybHI5b3Zjb3N6bXVvNTZoeCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0Q6VlwzeMhuL7xFCKG/giphy.gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjZ6d2lkbzczdHc3MjVwOWdxOXF4bnJ4eDByY3RsbXp5dWV0MzliZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zl6yB5o8A097W4pRYK/giphy.gif" />
 
 ```
 > loading user profile...
@@ -25,44 +19,18 @@
 Name   → Dreaith
 Witty  → yes (source: me)
 OS     → Linux · Kali · Windows
-Fuel   → kopikoblanka ☕
-Status → spent 4 hours picking a color palette
-          for a project nobody asked for
-          (the palette was wrong anyway)
+Age    → very young (Lol)
+Fuel   → ☕ 
 =====================================
   README.md → TODO
   HELP.md   → please
 =====================================
 > shutting down...
-> just kidding
-> [continues doing nothing productively]
+> error....
 ```
 
 <br clear="right"/>
 
----
-
-<!-- VERSES -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="middle">
-        <blockquote>
-          <strong>"When I am afraid, I put my trust in You."</strong><br/>
-          <em>— Psalm 56:3</em>
-        </blockquote>
-      </td>
-      <td width="50%" valign="middle">
-        <blockquote>
-          <strong>"The Lord will fight for you; you need only to be still."</strong><br/>
-          <em>— Exodus 14:14</em>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <!-- STACK -->
 <div align="center">
@@ -85,10 +53,10 @@ Status → spent 4 hours picking a color palette
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dr34ith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffb6c1&icon_color=ff85a1&text_color=c9d1d9&ring_color=ffb6c1" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=dr34ith&show_icons=true&hide_border=true&bg_color=0a0010&title_color=b57bff&icon_color=7c3aed&text_color=c9b8e8&ring_color=6d28d9" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr34ith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffb6c1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr34ith&layout=compact&hide_border=true&bg_color=0a0010&title_color=b57bff&text_color=c9b8e8&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -104,7 +72,7 @@ Status → spent 4 hours picking a color palette
 
 ### `> STREAK.SH`
 
-<img src="https://streak-stats.demolab.com?user=dr34ith&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1&sideLabels=c9d1d9&dates=6e7681&background=0d1117&stroke=1e2a3a" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=dr34ith&hide_border=true&ring=b57bff&fire=7c3aed&currStreakLabel=b57bff&sideLabels=c9b8e8&dates=6e6680&background=0a0010&stroke=2d1b4e" alt="GitHub Streak"/>
 
 </div>
 
@@ -117,7 +85,7 @@ Status → spent 4 hours picking a color palette
 
 ### `> ACTIVITY.LOG`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dr34ith&bg_color=0d1117&color=ffb6c1&line=ff85a1&point=ffd6e7&area=true&area_color=ff85a1&hide_border=true&custom_title=dreaith's%20contribution%20graph" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dr34ith&bg_color=0a0010&color=b57bff&line=7c3aed&point=e8d5ff&area=true&area_color=6d28d9&hide_border=true&custom_title=dreaith's%20contribution%20graph" alt="Activity Graph"/>
 
 </div>
 
@@ -131,8 +99,9 @@ Status → spent 4 hours picking a color palette
 ### `> SNAKE.SH`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/ocean.gif"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/ocean.gif"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -146,7 +115,7 @@ Status → spent 4 hours picking a color palette
 
 ### `> TROPHIES.EXE`
 
-<img src="https://github-profile-trophy.vercel.app/?username=dr34ith&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dr34ith&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 
 </div>
 
@@ -159,10 +128,10 @@ Status → spent 4 hours picking a color palette
 
 ### `> CONNECT.SH`
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23ffb6c1?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/dr34ith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffb6c1?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ffb6c1?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:your@email.com)
-[![Resume](https://img.shields.io/badge/Resume-%23ffb6c1?style=for-the-badge&logo=read-the-docs&logoColor=0d1117)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23b57bff?style=for-the-badge&logo=github&logoColor=0a0010)](https://github.com/dr34ith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23b57bff?style=for-the-badge&logo=linkedin&logoColor=0a0010)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23b57bff?style=for-the-badge&logo=gmail&logoColor=0a0010)](mailto:your@email.com)
+[![Resume](https://img.shields.io/badge/Resume-%23b57bff?style=for-the-badge&logo=read-the-docs&logoColor=0a0010)](#)
 
 </div>
 
@@ -176,7 +145,8 @@ Status → spent 4 hours picking a color palette
     <tr>
       <td align="center">
         <blockquote>
-          <em>Try, Try, just Try..</em>
+          <em>"The unexamined life is not worth living" </em>
+          <em>-Socrates</em>
         </blockquote>
       </td>
     </tr>
@@ -185,11 +155,15 @@ Status → spent 4 hours picking a color palette
 
 ---
 
+<!-- SNAKE WORKFLOW REMINDER: place snake.yml at .github/workflows/snake.yml -->
+<!-- Update snake colors by editing snake.yml outputs line: -->
+<!-- color_snake=b57bff&color_dots=#0a0010,#1e0a3c,#3b1278,#6d28d9,#b57bff -->
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2N6ZTRkc3RtYnd2b2R6a21xbXo4aHRua3Z3eDFqcmg2c280b21udyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CSxv7CZ1Aweil7wzDf/giphy.gif" width="120" />
   <br/>
   <sub>if you read this whole thing you owe me a job 🐹</sub>
   <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=130&section=footer&animation=twinkling&text=see+you+around+🌸&fontSize=22&fontColor=ffd6e7&fontAlignY=65"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=130&section=footer&animation=twinkling&text=see+you+around+🌸&fontSize=22&fontColor=e8d5ff&fontAlignY=65"/>
 </div>
