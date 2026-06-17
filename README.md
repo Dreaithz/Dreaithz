@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&random=false&width=720&lines=just+a+student+figuring+things+out;exploring+security,+design+%26+everything+in+between;powered+by+peanuts+%26+way+too+much+caffeine;still+learning.+always+learning." />
 </p>
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjZ6d2lkbzczdHc3MjVwOWdxOXF4bnJ4eDByY3RsbXp5dWV0MzliZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zl6yB5o8A097W4pRYK/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjZ6d2lkbzczdHc3MjVwOWdxOXF4bnJ4eDByY3RsbXp5dWV0MzliZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zl6yB5o8A097W4pRYK/giphy.gif" />
 
 ```
 > loading user profile...
@@ -19,14 +19,8 @@
 Name   → Dreaith
 Witty  → yes (source: me)
 OS     → Linux · Kali · Windows
-Age    → very young (Lol)
-Fuel   → ☕ 
 =====================================
-  README.md → TODO
-  HELP.md   → please
-=====================================
-> shutting down...
-> error....
+> shutting down, yeah that's it...
 ```
 
 <br clear="right"/>
@@ -110,12 +104,11 @@ Fuel   → ☕
 
 ---
 
-<!-- TROPHIES -->
 <div align="center">
 
 ### `> TROPHIES.EXE`
 
-<img src="https://github-profile-trophy.vercel.app/?username=dr34ith&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dr34ith&theme=nord&no-bg=true&no-frame=true"/>
 
 </div>
 
