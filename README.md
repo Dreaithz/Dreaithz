@@ -1,4 +1,3 @@
-
 <div align="center">
  <img width="100%" height="290" alt="image" src="https://github.com/user-attachments/assets/c888f909-c1f2-4d34-8a29-223818870d56" />
 </div>
@@ -31,15 +30,22 @@ OS     → Linux · Kali · Windows
 
 ### `> STACK.SH`
 
-<img src="https://skillicons.dev/icons?i=python,linux,kali,html,css,js,git,vscode,figma,bash&theme=dark&perline=10" />
+![Python](https://img.shields.io/badge/Python-%23b57bff?style=for-the-badge&logo=python&logoColor=0a0010)
+![Linux](https://img.shields.io/badge/Linux-%237c3aed?style=for-the-badge&logo=linux&logoColor=e8d5ff)
+![Kali](https://img.shields.io/badge/Kali_Linux-%234c1d95?style=for-the-badge&logo=kalilinux&logoColor=e8d5ff)
+![HTML](https://img.shields.io/badge/HTML-%23b57bff?style=for-the-badge&logo=html5&logoColor=0a0010)
+![CSS](https://img.shields.io/badge/CSS-%237c3aed?style=for-the-badge&logo=css3&logoColor=e8d5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-%234c1d95?style=for-the-badge&logo=javascript&logoColor=e8d5ff)
+![Git](https://img.shields.io/badge/Git-%23b57bff?style=for-the-badge&logo=git&logoColor=0a0010)
+![VSCode](https://img.shields.io/badge/VSCode-%237c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=e8d5ff)
+![Figma](https://img.shields.io/badge/Figma-%234c1d95?style=for-the-badge&logo=figma&logoColor=e8d5ff)
+![Bash](https://img.shields.io/badge/Bash-%23b57bff?style=for-the-badge&logo=gnubash&logoColor=0a0010)
 
 </div>
 
 <br/>
 
----
 
-<!-- STATS -->
 <div align="center">
 
 ### `> STATS.SH`
@@ -57,11 +63,7 @@ OS     → Linux · Kali · Windows
 
 </div>
 
-<br/>
 
----
-
-<!-- STREAK -->
 <div align="center">
 
 ### `> STREAK.SH`
@@ -70,9 +72,7 @@ OS     → Linux · Kali · Windows
 
 </div>
 
-<br/>
 
----
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
@@ -83,26 +83,13 @@ OS     → Linux · Kali · Windows
 
 </div>
 
-<br/>
-
----
-
-<!-- SNAKE -->
 <div align="center">
-
-### `> SNAKE.SH`
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake-dark.gif"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.gif"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.gif"/>
 </picture>
-
 </div>
-
-<br/>
-
----
 
 <div align="center">
 
@@ -112,11 +99,7 @@ OS     → Linux · Kali · Windows
 
 </div>
 
-<br/>
 
----
-
-<!-- CONNECT -->
 <div align="center">
 
 ### `> CONNECT.SH`
@@ -124,15 +107,9 @@ OS     → Linux · Kali · Windows
 [![GitHub](https://img.shields.io/badge/GitHub-%23b57bff?style=for-the-badge&logo=github&logoColor=0a0010)](https://github.com/dr34ith)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23b57bff?style=for-the-badge&logo=linkedin&logoColor=0a0010)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-%23b57bff?style=for-the-badge&logo=gmail&logoColor=0a0010)](mailto:your@email.com)
-[![Resume](https://img.shields.io/badge/Resume-%23b57bff?style=for-the-badge&logo=read-the-docs&logoColor=0a0010)](#)
 
 </div>
 
-<br/>
-
----
-
-<!-- QUOTE -->
 <div align="center">
   <table>
     <tr>
@@ -147,10 +124,6 @@ OS     → Linux · Kali · Windows
 </div>
 
 ---
-
-<!-- SNAKE WORKFLOW REMINDER: place snake.yml at .github/workflows/snake.yml -->
-<!-- Update snake colors by editing snake.yml outputs line: -->
-<!-- color_snake=b57bff&color_dots=#0a0010,#1e0a3c,#3b1278,#6d28d9,#b57bff -->
 
 <!-- FOOTER -->
 <div align="center">
