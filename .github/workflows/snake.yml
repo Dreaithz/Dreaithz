@@ -9,7 +9,7 @@ jobs:
 snake:
 runs-on: ubuntu-latest
 
-```
+
 permissions:
   contents: write
 
@@ -27,4 +27,4 @@ steps:
       build_dir: dist
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
