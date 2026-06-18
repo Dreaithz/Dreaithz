@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&random=false&width=720&lines=just+a+student+figuring+things+out;exploring+security,+design+%26+everything+in+between;powered+by+peanuts+%26+way+too+much+caffeine;still+learning.+always+learning." />
 </p>
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjZ6d2lkbzczdHc3MjVwOWdxOXF4bnJ4eDByY3RsbXp5dWV0MzliZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Zl6yB5o8A097W4pRYK/giphy.gif" />
+<img align="right" width="215" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU3dnBjdHNsdWVkeW12ajh3a3QzbzdzOWtzZ3VsOXJsdW5hd283YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l0O9xuNakDBl7aVIQ/giphy.gif" />
 
 ```
 > loading user profile...
@@ -36,6 +36,9 @@ OS     → Linux · Kali · Windows
 [![CylabAcademy](https://img.shields.io/badge/CylabAcademy-%23141414?style=for-the-badge&logo=academia&logoColor=999999)](https://learn.cylabacademy.org/users/dr34ith)
 
 </div>
+<img align="right" width="315" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjUzNW5pdXdsZm9uOXpkNzJ1NnYxbG9tN2piYXBiOGt6NmQ4bndqYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/n8KjzlLEr9IUo/giphy.gif" />
+
+
 
 <div align = "center">
 <img width="733" height="308" alt="image" src="https://github.com/user-attachments/assets/c7e37327-6f6b-4b43-8bbf-59c8651911b8" />
@@ -109,6 +112,7 @@ OS     → Linux · Kali · Windows
 
 <div align="center">
 
+
 ### `> TROPHIES.EXE`
 
 <img src="https://github-profile-trophy.vercel.app/?username=dr34ith&theme=nord&no-bg=true&no-frame=true"/>
@@ -139,3 +143,4 @@ OS     → Linux · Kali · Windows
   <br/><br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=130&section=footer&animation=twinkling&text=see+you+around+🌸&fontSize=22&fontColor=e8d5ff&fontAlignY=65"/>
 </div>
+
