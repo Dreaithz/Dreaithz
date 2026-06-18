@@ -104,7 +104,7 @@ OS     → Linux · Kali · Windows
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
