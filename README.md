@@ -24,24 +24,44 @@ OS     → Linux · Kali · Windows
 
 <br clear="right"/>
 
+<div align="center">
 
-<!-- STACK -->
+### `> CONNECT.SH`
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181818?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/dr34ith)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23111111?style=for-the-badge&logo=tryhackme&logoColor=aaaaaa)](https://tryhackme.com/p/Dreaith)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23222222?style=for-the-badge&logo=hackthebox&logoColor=cccccc)](https://profile.hackthebox.com/profile/019cccad-e25a-7200-8be5-6f3646c63d6b)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-%23111111?style=for-the-badge&logo=shield&logoColor=aaaaaa)](https://app.letsdefend.io/user/Dreaiith)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230d0d0d?style=for-the-badge&logo=hackthebox&logoColor=888888)](https://cyberdefenders.org/p/dreaith/)
+[![CylabAcademy](https://img.shields.io/badge/CylabAcademy-%23141414?style=for-the-badge&logo=academia&logoColor=999999)](https://learn.cylabacademy.org/users/dr34ith)
+
+</div>
+
+<div align = "center">
+<img width="733" height="308" alt="image" src="https://github.com/user-attachments/assets/c7e37327-6f6b-4b43-8bbf-59c8651911b8" />
+
+</div>
+
 <div align="center">
 
 ### `> STACK.SH`
 
-![Python](https://img.shields.io/badge/Python-%23b57bff?style=for-the-badge&logo=python&logoColor=0a0010)
-![Linux](https://img.shields.io/badge/Linux-%237c3aed?style=for-the-badge&logo=linux&logoColor=e8d5ff)
-![Kali](https://img.shields.io/badge/Kali_Linux-%234c1d95?style=for-the-badge&logo=kalilinux&logoColor=e8d5ff)
-![HTML](https://img.shields.io/badge/HTML-%23b57bff?style=for-the-badge&logo=html5&logoColor=0a0010)
-![CSS](https://img.shields.io/badge/CSS-%237c3aed?style=for-the-badge&logo=css3&logoColor=e8d5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-%234c1d95?style=for-the-badge&logo=javascript&logoColor=e8d5ff)
-![Git](https://img.shields.io/badge/Git-%23b57bff?style=for-the-badge&logo=git&logoColor=0a0010)
-![VSCode](https://img.shields.io/badge/VSCode-%237c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=e8d5ff)
-![Figma](https://img.shields.io/badge/Figma-%234c1d95?style=for-the-badge&logo=figma&logoColor=e8d5ff)
-![Bash](https://img.shields.io/badge/Bash-%23b57bff?style=for-the-badge&logo=gnubash&logoColor=0a0010)
+![Python](https://img.shields.io/badge/Python-%23111111?style=for-the-badge&logo=python&logoColor=cccccc)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23111111?style=for-the-badge&logo=javascript&logoColor=cccccc)
+![Bash](https://img.shields.io/badge/Bash-%23111111?style=for-the-badge&logo=gnubash&logoColor=aaaaaa)
+![SQL](https://img.shields.io/badge/SQL-%23111111?style=for-the-badge&logo=postgresql&logoColor=aaaaaa)
+![React](https://img.shields.io/badge/React-%23181818?style=for-the-badge&logo=react&logoColor=cccccc)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23181818?style=for-the-badge&logo=html5&logoColor=aaaaaa)
+![Node.js](https://img.shields.io/badge/Node.js-%23181818?style=for-the-badge&logo=nodedotjs&logoColor=cccccc)
+![Express.js](https://img.shields.io/badge/Express.js-%23181818?style=for-the-badge&logo=express&logoColor=aaaaaa)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23181818?style=for-the-badge&logo=mongodb&logoColor=cccccc)
+![Linux](https://img.shields.io/badge/Linux-%23111111?style=for-the-badge&logo=linux&logoColor=cccccc)
+![Git](https://img.shields.io/badge/Git-%23111111?style=for-the-badge&logo=git&logoColor=aaaaaa)
+![Docker](https://img.shields.io/badge/Docker-%23111111?style=for-the-badge&logo=docker&logoColor=cccccc)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23111111?style=for-the-badge&logo=wireshark&logoColor=aaaaaa)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23111111?style=for-the-badge&logo=burpsuite&logoColor=cccccc)
+![VS Code](https://img.shields.io/badge/VS_Code-%23111111?style=for-the-badge&logo=visualstudiocode&logoColor=aaaaaa)
 
-</div>
 
 <br/>
 
@@ -84,11 +104,9 @@ OS     → Linux · Kali · Windows
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake-dark.gif"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.gif"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.gif"/>
-</picture>
+
+<img src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-contribution-grid-snake-dark.gif" alt="Snake animation" />
+
 </div>
 
 <div align="center">
@@ -99,16 +117,6 @@ OS     → Linux · Kali · Windows
 
 </div>
 
-
-<div align="center">
-
-### `> CONNECT.SH`
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23b57bff?style=for-the-badge&logo=github&logoColor=0a0010)](https://github.com/dr34ith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23b57bff?style=for-the-badge&logo=linkedin&logoColor=0a0010)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-%23b57bff?style=for-the-badge&logo=gmail&logoColor=0a0010)](mailto:your@email.com)
-
-</div>
 
 <div align="center">
   <table>
