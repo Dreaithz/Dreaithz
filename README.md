@@ -28,12 +28,12 @@ OS     → Linux · Kali · Windows
 
 ### `> CONNECT.SH`
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181818?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/dr34ith)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23111111?style=for-the-badge&logo=tryhackme&logoColor=aaaaaa)](https://tryhackme.com/p/Dreaith)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23222222?style=for-the-badge&logo=hackthebox&logoColor=cccccc)](https://profile.hackthebox.com/profile/019cccad-e25a-7200-8be5-6f3646c63d6b)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-%23111111?style=for-the-badge&logo=shield&logoColor=aaaaaa)](https://app.letsdefend.io/user/Dreaiith)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230d0d0d?style=for-the-badge&logo=hackthebox&logoColor=888888)](https://cyberdefenders.org/p/dreaith/)
-[![CylabAcademy](https://img.shields.io/badge/CylabAcademy-%23141414?style=for-the-badge&logo=academia&logoColor=999999)](https://learn.cylabacademy.org/users/dr34ith)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181818?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/secret)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23111111?style=for-the-badge&logo=tryhackme&logoColor=aaaaaa)](https://tryhackme.com/p/secret)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23222222?style=for-the-badge&logo=hackthebox&logoColor=cccccc)](https://profile.hackthebox.com/profile/secret)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-%23111111?style=for-the-badge&logo=shield&logoColor=aaaaaa)](https://app.letsdefend.io/user/secret)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230d0d0d?style=for-the-badge&logo=hackthebox&logoColor=888888)](https://cyberdefenders.org/p/secret/)
+
 
 </div>
 <img align="right" width="315" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjUzNW5pdXdsZm9uOXpkNzJ1NnYxbG9tN2piYXBiOGt6NmQ4bndqYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/n8KjzlLEr9IUo/giphy.gif" />
