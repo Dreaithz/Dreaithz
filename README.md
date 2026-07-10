@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td valign="middle" align="left">
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=20&duration=1500&pause=400&color=FFFFFF&background=000000&vCenter=true&multiline=true&width=600&height=160&lines=%E2%94%8C%E2%94%80%E2%94%80(dreaith%40kali)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami+--hehe;Name+%3A+Dreaithex+without+EX;Interested+in+%3ASpicy+Ramen;Addicted+in+%3ACaffeine;Witty:+%3A+YES+(source+is+me)+;%E2%94%94%E2%94%80%24+_" align="left"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=20&duration=1500&pause=400&color=FFFFFF&background=000000&vCenter=true&multiline=true&width=600&height=160&lines=%E2%94%8C%E2%94%80%E2%94%80(dreaith%40kali)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami+--hehe;Name+%3A+DreaitHEX+without+EX;Interested+in+%3ASpicy+Ramen;Addicted+in+%3ACaffeine;Witty:+%3A+YES+(source+is+me)+;%E2%94%94%E2%94%80%24+_" align="left"/>
 </td>
 <td valign="middle" align="center">
 <img width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU3dnBjdHNsdWVkeW12ajh3a3QzbzdzOWtzZ3VsOXJsdW5hd283YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l0O9xuNakDBl7aVIQ/giphy.gif" />
