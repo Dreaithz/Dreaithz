@@ -32,43 +32,6 @@
 
 <div align="center">
 
-### `> STACK.SH`
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff&labelColor=000000"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### `> METRICS.LOG`
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=droid-dreaith&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=droid-dreaith&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droid-dreaith&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### `> CONNECT.SOCK`
 
 <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000"/></a>
@@ -76,8 +39,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=capacitor&logoColor=ffffff&labelColor=000000"/></a>
 
 </div>
-
-<br/>
 
 <div align="center">
 
