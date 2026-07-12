@@ -52,18 +52,15 @@
       </td>
     </tr>
   </table>
-
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=droid-dreaith&color=000000&style=for-the-badge&label=PROFILE+VIEWS"/>
   </p>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2N6ZTRkc3RtYnd2b2R6a21xbXo4aHRua3Z3eDFqcmg2c280b21udyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CSxv7CZ1Aweil7wzDf/giphy.gif" width="120" />
 
-  <br/><br/>
+  <br/>
 
-  <sub>if you read this whole thing you owe me a job 🐹</sub>
-
-  <br/><br/>
+  <sub>if you read this whole thing you owe me a cup of coffee. 🐹</sub>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFFFFF"/>
 
