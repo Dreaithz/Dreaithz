@@ -73,8 +73,7 @@
 
 <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=000000"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PicoCTF-000000?style=for-the-badge&logo=capacitor&logoColor=ffffff&labelColor=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=capacitor&logoColor=ffffff&labelColor=000000"/></a>
 
 </div>
 
