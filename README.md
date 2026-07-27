@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=55&duration=3000&pause=800&color=A13A6B&background=EEA7C7&center=true&vCenter=true&width=1000&height=90&lines=DREAITH" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEA7C7,50:A13A6B,100:EEA7C7&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEA7C7,50:A13A6B,100:EEA7C7&height=3&width=900" />
 <img src="https://img.shields.io/badge/TECH.%20STUDENT-A13A6B?style=for-the-badge&labelColor=EEA7C7"/>
 </div>
 <br/>
