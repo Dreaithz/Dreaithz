@@ -1,7 +1,5 @@
 <div align="center">
-
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=2800&pause=900&color=FFB6C1&background=000000&center=true&vCenter=true&width=750&height=90&lines=DREAITH" alt="DREAITH" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=2800&pause=900&color=FFB6C1&background=000000&center=true&vCenter=true&width=700&height=90&lines=DREAITH" alt="DREAITH" />
 <table border="0" cellpadding="5" cellspacing="0" width="700">
 <tr>
 <td width="460" align="center" valign="middle">
