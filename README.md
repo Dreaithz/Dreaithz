@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,100:FF91A4&height=100&section=&animation=twinkle&font=Cinzel&cb=777" width="100%" />
-  <!-- FIXED: height=15 → height=45 so text fits -->
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2200&pause=800&color=FF69B4&background=FFF0F500&center=true&vCenter=true&width=600&height=45&lines=welcome+to+my+lil+corner+~+%F0%9F%8E%A8;d_r_e_a_i_t_h.+~+%E2%9C%A7" alt="cute typing" />
 <br/><br/>
 
@@ -11,7 +10,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=400&color=FF69B4&background=FFF0F500&center=false&vCenter=true&multiline=true&width=460&height=230&lines=%E2%94%8C%E2%94%80(%F0%9F%8E%A8dreaith%40kali)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami+--verbose;Name%3A+Dreaith+%E2%9C%A7;Personality%3A+Witty+(source%3A+me);Quest%3A+Explorer+Kiddie;Quote%3A+I+want+to+be+a+sponge;to+an+ocean+of+possibilities.;%E2%94%94%E2%94%80%24+_" alt="whoami terminal" width="100%"/>
       </td>
       <td width="220" align="center" valign="middle">
-        <img width="270" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGc1eTZ4Z2JiaGg5YW4ycXo1ZHloanczN2dhY3Fibm4waG00MzJhcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/11D3VKJMRrgVgI/giphy.gif" alt="avatar" style="border-radius: 50%; border: 4px solid #FF91A4; padding: 1px;" />
+        <img width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN1YzNzZ2ljemFwZHZndWN3bWJ5N2ZnaDRxZG1sanM4YWdjeDd1biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" alt="avatar" style="border-radius: 50%; border: 4px solid #FF91A4; padding: 1px;" />
         <br/><br/>
       </td>
     </tr>
@@ -42,6 +41,15 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr34ith&theme=radical&background=FFF0F3&ring=FF1493&fire=FF69B4&currStreakNum=FF1493&sideNums=8A4B62&dates=8A4B62&hide_border=true" alt="GitHub Streak" />
     </a>
   </p>
+
+  <br/>
+
+  <!-- Snake contribution graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg" />
+  </picture>
 
   <br/>
 
