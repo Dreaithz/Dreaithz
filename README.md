@@ -1,16 +1,13 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,100:FF91A4&height=120&section=header&animation=fadeIn" width="100%" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=600&height=50&lines=welcome+to+my+lil+corner+~+%F0%9F%8E%A8;d_r_e_a_i_t_h.+~+%E2%9C%A7" alt="typing" />
-
   <br/><br/>
 
   <!-- About -->
-  <table border="0" cellpadding="12" cellspacing="0" width="680">
+ <table border="0" cellpadding="12" cellspacing="0" width="680">
     <tr>
       <td width="460" align="left" valign="middle" style="background:#FFF0F3; border:2px dashed #FF91A4; border-radius:14px; padding:18px;">
-        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1500&pause=400&color=FF69B4&background=00000000&center=false&vCenter=true&multiline=true&width=420&height=200&lines=%E2%94%8C%E2%94%80(%F0%9F%8E%A8dreaith%40kali)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami+--verbose;Name%3A+Dreaith+%E2%9C%A7;Personality%3A+Witty+(source%3A+me);Quest%3A+Explorer+Kiddie;Quote%3A+I+want+to+be+a+sponge;to+an+ocean+of+possibilities.;%E2%94%94%E2%94%80%24+_" alt="whoami" width="100%"/>
+        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1500&pause=400&color=C9748A&background=00000000&center=false&vCenter=true&multiline=true&width=420&height=200&lines=%E2%94%8C%E2%94%80(%F0%9F%8E%A8dreaith%40kali)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami+--verbose;Name%3A+Dreaith+%E2%9C%A7;Personality%3A+Witty+(source%3A+me);Quest%3A+Explorer+Kiddie;Quote%3A+I+want+to+be+a+sponge;to+an+ocean+of+possibilities.;%E2%94%94%E2%94%80%24+_" alt="whoami" width="100%"/>
       </td>
       <td width="20"></td>
       <td width="200" align="center" valign="middle">
@@ -28,31 +25,30 @@
 
   <br/><br/>
 
-  <!-- Info Cards -->
   <table border="0" cellpadding="8" cellspacing="6" width="680">
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FF91A4; border-radius:8px; padding:10px 16px;">
-        🎓 &nbsp;<b>Degree</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Information Technology</span>
+        🎀 &nbsp;<b>Degree</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Information Technology</span>
       </td>
     </tr>
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FF69B4; border-radius:8px; padding:10px 16px;">
-        🎀 &nbsp;<b>Focus</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Defensive security via Windows · building self-trust lol</span>
+        🌸 &nbsp;<b>Current Task: </b> &nbsp;·&nbsp; <span style="color:#A65B77;">Learn Defensive security · building self-trust lol</span>
       </td>
     </tr>
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FF1493; border-radius:8px; padding:10px 16px;">
-        📜 &nbsp;<b>Unrelated Cert.</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Bookkeeping NC III by TESDA</span>
+        🌸 &nbsp;<b>Unrelated Cert</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Bookkeeping NC III by TESDA</span>
       </td>
     </tr>
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FF80BF; border-radius:8px; padding:10px 16px;">
-        🌸 &nbsp;<b>Hobbies</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Guitar · Painting · Asian dramas · Motorcycle & Bike · I like also to basketball</span>
+        🌸 &nbsp;<b>Hobbies</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Guitar · Painting · Asian dramas · Motorcycle & bike · Basketball</span>
       </td>
     </tr>
     <tr>
       <td align="left" style="background:#FFF0F3; border-left:3px solid #FFB3CC; border-radius:8px; padding:10px 16px;">
-        💖 &nbsp;<b>Vibe</b> &nbsp;·&nbsp; <span style="color:#A65B77;">I admire passionate & disciplined people while trying to cure my love for cramming!</span>
+        🌸 &nbsp;<b>Vibe</b> &nbsp;·&nbsp; <span style="color:#A65B77;">I admire passionate & disciplined people while trying to cure my love for cramming!</span>
       </td>
     </tr>
   </table>
@@ -62,13 +58,15 @@
   <br/>
 
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dr34ith&show_icons=true&theme=radical&bg_color=FFF0F3&title_color=FF1493&icon_color=FF69B4&text_color=8A4B62&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dr34ith&theme=dracula" width="680" alt="profile details" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dr34ith&theme=dracula" height="150" alt="langs" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dr34ith&theme=dracula" height="150" alt="stats" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr34ith&theme=radical&background=FFF0F3&ring=FF1493&fire=FF69B4&currStreakNum=FF1493&sideNums=8A4B62&dates=8A4B62&hide_border=true" height="150" alt="streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr34ith&layout=compact&bg_color=FFF0F3&title_color=FF1493&text_color=8A4B62&hide_border=true&langs_count=6" alt="top langs" />
 
   <br/><br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="680" height="2" alt="divider"/>
