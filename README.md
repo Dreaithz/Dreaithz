@@ -1,79 +1,101 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,100:FF91A4&height=100&section=&animation=twinkle&font=Cinzel&cb=777" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2200&pause=800&color=FF69B4&background=FFF0F500&center=true&vCenter=true&width=600&height=45&lines=welcome+to+my+lil+corner+~+%F0%9F%8E%A8;d_r_e_a_i_t_h.+~+%E2%9C%A7" alt="cute typing" />
-<br/><br/>
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,100:FF91A4&height=120&section=header&animation=fadeIn" width="100%" />
 
-  <table border="0" cellpadding="10" cellspacing="0" width="700" style="background-color:#FFF0F3; border-radius:16px;">
-    <tr>
-      <td width="480" align="center" valign="middle" style="border:2px dashed #FF91A4; border-radius:14px;">
-        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1500&pause=400&color=FF69B4&background=FFF0F500&center=false&vCenter=true&multiline=true&width=460&height=230&lines=%E2%94%8C%E2%94%80(%F0%9F%8E%A8dreaith%40kali)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami+--verbose;Name%3A+Dreaith+%E2%9C%A7;Personality%3A+Witty+(source%3A+me);Quest%3A+Explorer+Kiddie;Quote%3A+I+want+to+be+a+sponge;to+an+ocean+of+possibilities.;%E2%94%94%E2%94%80%24+_" alt="whoami terminal" width="100%"/>
-      </td>
-      <td width="220" align="center" valign="middle">
-        <img width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN1YzNzZ2ljemFwZHZndWN3bWJ5N2ZnaDRxZG1sanM4YWdjeDd1biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" alt="avatar" style="border-radius: 50%; border: 4px solid #FF91A4; padding: 1px;" />
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=600&height=50&lines=welcome+to+my+lil+corner+~+%F0%9F%8E%A8;d_r_e_a_i_t_h.+~+%E2%9C%A7" alt="typing" />
 
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="700" height="3" alt="divider"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🎵-Now%20playing%3A%20'Strong%20Girl'%20%E2%80%94%20NIKI-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Now Playing" />
   <br/><br/>
 
-  <table border="0" cellpadding="14" cellspacing="0" width="700" style="background-color:#FFF0F3; border-radius:16px; border:2px dashed #FF91A4;">
+  <!-- About -->
+  <table border="0" cellpadding="12" cellspacing="0" width="680">
     <tr>
-      <td align="left">
-        <p style="color:#8A4B62; margin:6px 0;"><span style="color:#FF1493;">🌸</span>&nbsp;&nbsp;<b style="color:#FF1493;">Hobby &amp; Skills:</b> <span style="color:#A65B77;">guitar, painting, Asian dramas, plus riding a motorcycle &amp; bike</span></p>
-        <p style="color:#8A4B62; margin:6px 0;"><span style="color:#FF3399;">🎀</span>&nbsp;&nbsp;<b style="color:#FF3399;">Current Focus:</b> <span style="color:#A65B77;">Exploring defensive security via Windows and to build self-trust lol</span></p>
-        <p style="color:#8A4B62; margin:6px 0;"><span style="color:#FF69B4;">📜</span>&nbsp;&nbsp;<b style="color:#FF69B4;">Unrelated Certification:</b> <span style="color:#A65B77;">Bookkeeping NC III by TESDA</span></p>
-        <p style="color:#8A4B62; margin:6px 0;"><span style="color:#FF80BF;">💖</span>&nbsp;&nbsp;<b style="color:#FF80BF;">Vibe &amp; Quirks:</b> <span style="color:#A65B77;">I admire passionate and disciplined people even while trying to cure my own love for cramming!</span></p>
+      <td width="460" align="left" valign="middle" style="background:#FFF0F3; border:2px dashed #FF91A4; border-radius:14px; padding:18px;">
+        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1500&pause=400&color=FF69B4&background=00000000&center=false&vCenter=true&multiline=true&width=420&height=200&lines=%E2%94%8C%E2%94%80(%F0%9F%8E%A8dreaith%40kali)-%5B~%5D;%E2%94%94%E2%94%80%24+whoami+--verbose;Name%3A+Dreaith+%E2%9C%A7;Personality%3A+Witty+(source%3A+me);Quest%3A+Explorer+Kiddie;Quote%3A+I+want+to+be+a+sponge;to+an+ocean+of+possibilities.;%E2%94%94%E2%94%80%24+_" alt="whoami" width="100%"/>
+      </td>
+      <td width="20"></td>
+      <td width="200" align="center" valign="middle">
+        <img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN1YzNzZ2ljemFwZHZndWN3bWJ5N2ZnaDRxZG1sanM4YWdjeDd1biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" style="border-radius:50%; border:3px solid #FF91A4;" alt="avatar" />
       </td>
     </tr>
   </table>
 
   <br/>
-
-
-  <p>
-    <a href="https://github.com/dr34ith">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr34ith&theme=radical&background=FFF0F3&ring=FF1493&fire=FF69B4&currStreakNum=FF1493&sideNums=8A4B62&dates=8A4B62&hide_border=true" alt="GitHub Streak" />
-    </a>
-  </p>
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="680" height="2" alt="divider"/>
   <br/>
 
-  <!-- Snake contribution graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/dr34ith/dr34ith/output/github-snake.svg" />
-  </picture>
+  <!-- Now Playing -->
+  <img src="https://img.shields.io/badge/🎵_Now_Playing-Strong_Girl_—_NIKI-FF69B4?style=flat-square&logo=spotify&logoColor=white" alt="now playing" />
+
+  <br/><br/>
+
+  <!-- Info Cards -->
+  <table border="0" cellpadding="8" cellspacing="6" width="680">
+    <tr>
+      <td align="left" style="background:#FFF0F3; border-left:3px solid #FF91A4; border-radius:8px; padding:10px 16px;">
+        🎓 &nbsp;<b>Degree</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Information Technology</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="background:#FFF0F3; border-left:3px solid #FF69B4; border-radius:8px; padding:10px 16px;">
+        🎀 &nbsp;<b>Focus</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Defensive security via Windows · building self-trust lol</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="background:#FFF0F3; border-left:3px solid #FF1493; border-radius:8px; padding:10px 16px;">
+        📜 &nbsp;<b>Unrelated Cert.</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Bookkeeping NC III by TESDA</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="background:#FFF0F3; border-left:3px solid #FF80BF; border-radius:8px; padding:10px 16px;">
+        🌸 &nbsp;<b>Hobbies</b> &nbsp;·&nbsp; <span style="color:#A65B77;">Guitar · Painting · Asian dramas · Motorcycle & Bike · I like also to basketball</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="background:#FFF0F3; border-left:3px solid #FFB3CC; border-radius:8px; padding:10px 16px;">
+        💖 &nbsp;<b>Vibe</b> &nbsp;·&nbsp; <span style="color:#A65B77;">I admire passionate & disciplined people while trying to cure my love for cramming!</span>
+      </td>
+    </tr>
+  </table>
 
   <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="680" height="2" alt="divider"/>
+  <br/>
 
-  <p>
-    <a href="https://github.com/dr34ith" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://tryhackme.com/p/Dreaith" target="_blank">
-      <img src="https://img.shields.io/badge/TryHackMe-FF1493?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/skyrapaint/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-FF66B2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.pixilart.com/skyraphineart" target="_blank">
-      <img src="https://img.shields.io/badge/Pixilart-FF80BF?style=for-the-badge&logo=pixiv&logoColor=white" alt="Pixilart"/>
-    </a>
-  </p>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dr34ith&show_icons=true&theme=radical&bg_color=FFF0F3&title_color=FF1493&icon_color=FF69B4&text_color=8A4B62&hide_border=true&count_private=true" height="150" alt="stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr34ith&theme=radical&background=FFF0F3&ring=FF1493&fire=FF69B4&currStreakNum=FF1493&sideNums=8A4B62&dates=8A4B62&hide_border=true" height="150" alt="streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr34ith&layout=compact&bg_color=FFF0F3&title_color=FF1493&text_color=8A4B62&hide_border=true&langs_count=6" alt="top langs" />
+
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="680" height="2" alt="divider"/>
+  <br/>
+
+  <!-- Links -->
+  <a href="https://github.com/dr34ith" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/Dreaith" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-FF1493?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/skyrapaint/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF66B2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.pixilart.com/skyraphineart" target="_blank">
+    <img src="https://img.shields.io/badge/Pixilart-FF80BF?style=for-the-badge&logo=pixiv&logoColor=white" alt="Pixilart"/>
+  </a>
+
+  <br/><br/>
+  <p style="color:#8A4B62; font-size:13px;">˚ ༘ ೀ⋆｡˚ ✧ <span style="color:#FF69B4;">thank you for stopping by</span> ✧˚｡⋆ ೀ ༘ ˚</p>
+  <img src="https://komarev.com/ghpvc/?username=droid-dreaith&color=FF91A4&style=flat-square&label=visits&labelColor=FFF0F3" alt="visits"/>
 
   <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="700" height="3" alt="divider"/>
-  <br/>
-  <p style="color:#8A4B62;">˚ ༘ ೀ⋆｡˚ ✧ <span style="color:#FF69B4;">thank you for stopping by</span> ✧˚｡⋆ ೀ ༘ ˚</p>
-  <img src="https://komarev.com/ghpvc/?username=droid-dreaith&color=FF91A4&style=for-the-badge&label=%F0%9F%8C%B8+Zzz&labelColor=FFF0F3" alt="Profile visits"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF91A4,100:FFF0F3&height=80&section=footer&animation=fadeIn" width="100%" />
+
 </div>
